@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>wBPMWatchKitApp</string>
+	<string>Watch The BPM</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.vidyagamer.wBPM.watchkitapp</string>
 	<key>CFBundleDevelopmentRegion</key>
