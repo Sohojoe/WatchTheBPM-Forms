@@ -43,6 +43,7 @@
     <MtouchI18n>
     </MtouchI18n>
     <MtouchLink>Full</MtouchLink>
+    <MtouchUseLlvm>true</MtouchUseLlvm>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>full</DebugType>
