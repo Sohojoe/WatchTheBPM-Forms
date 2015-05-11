@@ -18,10 +18,6 @@ namespace WatchBPMWatchKitExtension
 		[GeneratedCode ("iOS Designer", "1.0")]
 		WatchKit.WKInterfaceLabel bpmOutputLabel { get; set; }
 
-		[Outlet]
-		[GeneratedCode ("iOS Designer", "1.0")]
-		WatchKit.WKInterfaceButton tapButton { get; set; }
-
 		[Action ("OnButtonPress:")]
 		[GeneratedCode ("iOS Designer", "1.0")]
 		partial void OnButtonPress (WatchKit.WKInterfaceButton sender);
@@ -31,10 +27,6 @@ namespace WatchBPMWatchKitExtension
 			if (bpmOutputLabel != null) {
 				bpmOutputLabel.Dispose ();
 				bpmOutputLabel = null;
-			}
-			if (tapButton != null) {
-				tapButton.Dispose ();
-				tapButton = null;
 			}
 		}
 	}
