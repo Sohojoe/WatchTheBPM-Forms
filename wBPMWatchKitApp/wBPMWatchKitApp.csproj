@@ -86,6 +86,9 @@
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\IconSettings%402x.png" />
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\IconSettings%403x.png" />
     <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\LongLook%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\tapButton.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\tapButton.imageset\tap38mm.png" />
+    <ImageAsset Include="Resources\Images.xcassets\tapButton.imageset\tap42mm.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
