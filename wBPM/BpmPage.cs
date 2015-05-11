@@ -40,7 +40,8 @@ namespace wBPM
 			VerticalOptions = LayoutOptions.Center,
 		};
 		Button tapButton = new Button{
-			Text = "tap!",
+//			Text = "tap!",
+			Image = new FileImageSource{File="tap"},
 			BackgroundColor = yellowColor,
 			TextColor = redColor,
 			BorderRadius = 15,
